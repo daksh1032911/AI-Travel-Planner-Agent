@@ -1,3 +1,5 @@
+AI Travel Agent
+
 An advanced AI-powered travel assistant designed to make trip planning effortless, personalized, and intelligent. Whether you're a frequent flyer, a student on a budget, or a family planning a vacation, this tool helps create seamless travel experiences.
 
 Key Features:
